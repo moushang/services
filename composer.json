@@ -1,0 +1,16 @@
+{
+    "name": "moushang/services",
+    "authors": [
+        {
+            "name": "yejiancong",
+            "email": "15900135@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Moushang\\Services\\": "src/"
+        }
+    },
+}
